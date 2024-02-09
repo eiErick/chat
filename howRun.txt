@@ -1,0 +1,2 @@
+Para instalar as dependências, dentro de backend, rode: npm install
+Para rodar a aplicação, rode: npm run start
